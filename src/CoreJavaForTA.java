@@ -18,9 +18,9 @@ public class CoreJavaForTA {
 		it=8;
 		//System.out.println(it);
 
-		String str = "i am ";
-		String str1 = "chaitanaya";
-		String str2;
+	//	String str = "i am ";
+	//	String str1 = "chaitanaya";
+	//	String str2;
 		
 		//concatinating two strings
 		//System.out.println(str+str1);
